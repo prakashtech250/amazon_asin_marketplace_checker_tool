@@ -2,12 +2,13 @@
 Amazon asin marktetplace checker tool
 
 Steps:
+
     1. Install python
         I assumed that you have install python on your operating system.
         To check if python is installed properly, open terminal/command_prompt and type command:
             > python --version or python3 --version
                 Python 3.8.5
-
+                
     2. Extract the zip file that I provide. (suppose the zip file is named as script.zip)
         Open terminal/command prompt and change directory inside the folder that you extracted script.zip
             > cd path_where_you_extract_script/script
